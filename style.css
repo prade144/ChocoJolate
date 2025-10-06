@@ -1247,7 +1247,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     padding: var(--space-16);
     margin-top: 50px;
-    background: url(https://deepakravindran.in/images/banner_mobile.webp);
+    background: url(https://deepakravindran.in/images/banner_mobile.webp) no-repeat;
   }
 
   .hero__title {
