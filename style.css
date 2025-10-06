@@ -883,7 +883,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: auto;
   margin-right: auto;
   gap: var(--space-32);
-  background: url(./img/banner.webp);
+  background: url(https://deepakravindran.in/images/banner.webp);
 }
 
 .hero__content {
